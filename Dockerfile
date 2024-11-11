@@ -29,4 +29,3 @@ RUN sed -i 's|AI\x02|\x00\x00\x00|' /opt/UaExpert.AppImage
 
 # Start UaExpert with ulimit set and run it in the background
 CMD bash -c "/opt/UaExpert.AppImage --appimage-extract-and-run"
-

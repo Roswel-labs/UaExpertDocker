@@ -30,6 +30,8 @@ The image contains noVNC client to access the container with browser on `localho
 
 Alternatively, use any VNC client with `localhost:5900`.
 
+The UaExpert is located on at Desktop.
+
 __Note:__ The connection is not secure since password is not needed. Do not use as part of the production solution.
 
 
