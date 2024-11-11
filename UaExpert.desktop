@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=UaExpert
+Comment=OPC UA Client
+Exec=/opt/UaExpert.AppImage --appimage-extract-and-run
+Icon=uaexpert
+Terminal=false
+Type=Application
+Categories=Utility;Application;
